@@ -6,7 +6,7 @@ Fui responsable del diseño, desarrollo, mantenimiento y optimización del proye
 
 ## VER DEMOSTRACIÓN
 
-🔗 [stefan-trifan.github.io/ITAM-Digital-ExEd/](https://stefan-trifan.github.io/ITAM-Digital-ExEd/)
+🔗 [stefan-trifan.github.io/itam-digital-exed/](https://stefan-trifan.github.io/itam-digital-exed/)
 
 ## Tecnologías utilizadas
 
